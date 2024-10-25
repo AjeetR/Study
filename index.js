@@ -1,5 +1,4 @@
 const express = require('express');
-const { type } = require('os');
 
 let app = express();
 
